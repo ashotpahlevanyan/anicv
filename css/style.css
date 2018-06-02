@@ -270,6 +270,9 @@ h2 {
 	}
 
 }
+#res, li {
+	page-break-inside: avoid;
+}
 
 @media print {
 	body {
